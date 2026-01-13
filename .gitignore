@@ -4,4 +4,6 @@ __pycache__/
 credentials.json
 venv/
 env/
+
 *.log
+README.md
