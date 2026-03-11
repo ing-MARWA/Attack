@@ -5,5 +5,4 @@ credentials.json
 venv/
 env/
 
-*.log
-README.md
+*.log
